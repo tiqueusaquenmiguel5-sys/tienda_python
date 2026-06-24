@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "vendedor": "maria",
+        "precio": 545.235,
+        "stock": 35.0
+    },
+    {
+        "id": "2",
+        "vendedor": "maria",
+        "precio": 25.0,
+        "stock": 4.0
+    }
+]
